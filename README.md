@@ -14,7 +14,7 @@
 - Headlights(?)
 
 ## Pull Up button with Copper Wire
-'''c++
+```c++
   #define in 2
   void setup() {
     Serial.begin(9600);
@@ -25,4 +25,4 @@
       Serial.println("Pressed!")
     }
   }
-'''
+```
