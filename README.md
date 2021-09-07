@@ -32,5 +32,7 @@ This logic is used for the _headlights(?)_, sequencial clutch, throttle and brak
 
 # Videos
 [Euro Truck 2](https://www.youtube.com/watch?v=RDurgAw0jrc)
+
 [Asseto Corsa](https://www.youtube.com/watch?v=peM25VW2umI)
+
 [Asseto Corsa - First Person View](https://www.youtube.com/watch?v=GaOq97XELbk)
