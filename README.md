@@ -30,4 +30,4 @@ The basic code is shown below:
 ```
 This logic is used for the _headlights(?)_, sequencial clutch, throttle and brake.
 
-<img src="Fotos/throttle.jpeg" alt="throttle" width="800"/>
+<img src="Fotos/throttle.jpeg" alt="throttle" width="500"/>
