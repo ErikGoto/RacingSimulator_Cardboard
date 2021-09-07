@@ -29,3 +29,4 @@ The basic code is shown below:
   }
 ```
 This logic is used for the _headlights(?)_, sequencial clutch, throttle and brake.
+![Copper Wire](Fotos/throttle.jpeg)
