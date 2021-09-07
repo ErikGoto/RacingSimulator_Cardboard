@@ -20,7 +20,7 @@ The basic code is shown below:
   #define in 2
   void setup() {
     Serial.begin(9600);
-    pinMode (in, INPUT_PULLUP);
+    pinMode (in, INPUT_PULLUP);[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
   }
   void loop() {
     if(digitalRead() == 0){
@@ -30,4 +30,5 @@ The basic code is shown below:
 ```
 This logic is used for the _headlights(?)_, sequencial clutch, throttle and brake.
 
-<img src="Fotos/throttle.jpeg" alt="throttle" width="500"/>
+# Videos
+[![Project Working](https://img.youtube.com/vi/RDurgAw0jrc/0.jpg)](https://www.youtube.com/watch?v=RDurgAw0jrc)
