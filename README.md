@@ -31,4 +31,6 @@ The basic code is shown below:
 This logic is used for the _headlights(?)_, sequencial clutch, throttle and brake.
 
 # Videos
-[![Project Working](https://img.youtube.com/vi/RDurgAw0jrc/0.jpg)](https://www.youtube.com/watch?v=RDurgAw0jrc)
+[Euro Truck 2](https://www.youtube.com/watch?v=RDurgAw0jrc)
+[Asseto Corsa](https://www.youtube.com/watch?v=peM25VW2umI)
+[Asseto Corsa - First Person View](https://www.youtube.com/watch?v=GaOq97XELbk)
