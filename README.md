@@ -29,6 +29,5 @@ The basic code is shown below:
   }
 ```
 This logic is used for the _headlights(?)_, sequencial clutch, throttle and brake.
-![Copper Wire](Fotos/throttle.jpeg)
 
-<img src="Fotos/throttle.jpeg" alt="drawing" width="200"/>
+<img src="Fotos/throttle.jpeg" alt="throttle" width="800"/>
