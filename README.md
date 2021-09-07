@@ -1,4 +1,4 @@
-# Simulador_ETS2
+# RacingSimulator
 
 # Materials
 - Arduino Micro
